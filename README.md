@@ -1,6 +1,7 @@
 # Problem Solving Repository
 
-Welcome to my Problem Solving Repository! This repo is dedicated to solving problems from the LeetCode problem set, particularly focusing on the Level 1 challenges curated by [Mohamed Ayman](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master).
+Welcome to my Problem Solving Repository! This repository is focused on tackling challenges from the LeetCode problem set, specifically those curated by [Mohamed Ayman](https://github.com/cs-MohamedAyman)
+You can find the problems in the   [Problem Set](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master).
 
 ## Table of Content that i have solved from mohamed ayman repository
 - [LeetCode Level one phase 1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/leetcode/array-1.md)
