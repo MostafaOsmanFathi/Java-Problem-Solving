@@ -31,7 +31,7 @@ public class NumberOfWonderfulSubstrings {
 
     public static void main(String[] args) {
 //        System.out.println(Integer.bitCount(0));
-        Scanner sc = new Scanner(System.in);
+//        Scanner sc = new Scanner(System.in);
         NumberOfWonderfulSubstrings w = new NumberOfWonderfulSubstrings();
         System.out.println(w.wonderfulSubstrings("fiabhedce"));
         System.out.println(w.wonderfulSubstrings("aba"));
