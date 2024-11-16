@@ -1,5 +1,9 @@
 package git.JavaProblemSolving.LevelOne.Leetcode.Phase3.ArrayII;
 
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Objects;
+
 public class SumOfBeautyOfAllSubstrings {
     public int beautySum(String s) {
         int[] frq = new int[26];
@@ -31,5 +35,6 @@ public class SumOfBeautyOfAllSubstrings {
     public static void main(String[] args) {
         SumOfBeautyOfAllSubstrings solution = new SumOfBeautyOfAllSubstrings();
         solution.beautySum("aabcb");
+        HashMap<Character, HashMap<Object,Object>> mp;
     }
 }
